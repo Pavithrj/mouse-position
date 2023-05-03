@@ -1,4 +1,4 @@
-import MousePosition from './Components/mouse-event';
+import MousePosition from './Components/MousePosition';
 
 function App() {
   return (
