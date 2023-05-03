@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './mouse-event.css';
+import './MousePosition.css';
 
 function MousePosition() {
     const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
